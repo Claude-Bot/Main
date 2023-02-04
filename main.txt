@@ -5,3 +5,5 @@ New commits:
 EQ/Custom-EQ Command Changes
 -eq to /f eq
 -cus-eq to /f cus-eq
+
+- more detailed help
