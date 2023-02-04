@@ -3,3 +3,4 @@ New commits and changes:
 
 New commits:
 EQ/Custom-EQ Command Changes
+-eq to /f eq
