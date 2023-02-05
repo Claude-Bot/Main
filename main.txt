@@ -7,3 +7,5 @@ EQ/Custom-EQ Command Changes
 -cus-eq to /f cus-eq
 - more detailed help
 - fixed issue with permission catching
+- fixed issue with eq graphic display
+- fixed error occuring when checking for guild music player
