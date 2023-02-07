@@ -12,3 +12,4 @@ EQ/Custom-EQ Command Changes
 - topgg vote mess
 - multiple tracks in queue
 - added playlist
+- saving own songs
