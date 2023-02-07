@@ -11,3 +11,4 @@ EQ/Custom-EQ Command Changes
 - fixed error occuring when checking for guild player
 - topgg vote mess
 - multiple tracks in queue
+- added playlist
