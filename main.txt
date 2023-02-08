@@ -13,3 +13,4 @@ EQ/Custom-EQ Command Changes
 - multiple tracks in queue
 - added playlist
 - saving own songs
+- fixed /playlist commands
