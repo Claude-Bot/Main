@@ -15,3 +15,4 @@ EQ/Custom-EQ Command Changes
 - saving own songs
 - fixed /playlist commands
 - playing improved
+- queue pagination
