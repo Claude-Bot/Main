@@ -17,3 +17,4 @@ EQ/Custom-EQ Command Changes
 - playing improved
 - queue pagination
 - new changes/improvements
+- listen-together fix
