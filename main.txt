@@ -18,3 +18,4 @@ EQ/Custom-EQ Command Changes
 - queue pagination
 - new changes/improvements
 - listen-together fix
+- fixed playlist show
