@@ -20,3 +20,4 @@ EQ/Custom-EQ Command Changes
 - listen-together fix
 - fixed playlist show
 - added pagination to playlist show command
+- fixed queue slow respond
