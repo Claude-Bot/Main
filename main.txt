@@ -21,3 +21,4 @@ EQ/Custom-EQ Command Changes
 - fixed playlist show
 - added pagination to playlist show command
 - fixed queue slow respond
+- fixing fitler commands
