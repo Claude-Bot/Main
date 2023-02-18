@@ -23,3 +23,4 @@ EQ/Custom-EQ Command Changes
 - fixed queue slow respond
 - fixing fitler commands
 - shows now streaming source
+- shows now music.youtube.com links if played
