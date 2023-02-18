@@ -22,3 +22,4 @@ EQ/Custom-EQ Command Changes
 - added pagination to playlist show command
 - fixed queue slow respond
 - fixing fitler commands
+- shows now streaming source
