@@ -24,3 +24,4 @@ EQ/Custom-EQ Command Changes
 - fixing fitler commands
 - shows now streaming source
 - shows now music.youtube.com links if played
+- added specific keyword search support
