@@ -27,3 +27,4 @@ EQ/Custom-EQ Command Changes
 - added specific keyword search support
 - rewrote structure of claude
 - updated all playlist commands
+- you can now create up to 3 playlists at the same time
