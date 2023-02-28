@@ -26,3 +26,4 @@ EQ/Custom-EQ Command Changes
 - shows now music.youtube.com links if played
 - added specific keyword search support
 - rewrote structure of claude
+- updated all playlist commands
