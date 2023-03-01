@@ -29,3 +29,4 @@ EQ/Custom-EQ Command Changes
 - updated all playlist commands
 - you can now create up to 3 playlists at the same time
 - renamed /playlist show -> /playlist list
+- redesigned /playlist list
