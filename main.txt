@@ -33,3 +33,4 @@ EQ/Custom-EQ Command Changes
 - renamed /uptime -> /about
 - fixed playlist playing with unkown track respond
 - rewrote base music playing
+- fixed issue control panel showing wrong track info
