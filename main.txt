@@ -32,3 +32,4 @@ EQ/Custom-EQ Command Changes
 - redesigned /playlist list
 - renamed /uptime -> /about
 - fixed playlist playing with unkown track respond
+- rewrote base music playing
