@@ -35,3 +35,4 @@ EQ/Custom-EQ Command Changes
 - rewrote base music playing
 - fixed issue control panel showing wrong track info
 - added new help menu
+- fixed thumbnail error with soundcloud tracks
